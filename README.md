@@ -1,3 +1,2 @@
-All over Internet and the USA, people are donating to ACLU and other organizations. Some people choose to match your donations up to a certain amount. (For example, if you donate 50 $, someone will also donate 50 $.)
-
-This website shows these people so you can send them your donation receipts. The website was inspired by this tweet. It is not affiliated with any of these organizations.
+All over the internet and the United States, people are donating to ACLU in opposition of the recent immigration ban passed by Donald Trump. This website aims to help multiply your donations by showing you the people who will match them (i.e., you donate $50, someone will also donate $50).</p> 
+                <p>The website was inspired by <a href="https://twitter.com/leepnet/status/825821432298905600">this tweet</a> and made by <a href="https://twitter.com/mrcalexandre">Alexandre Mouriec</a> and <a href="https://twitter.com/marianoaavila">Mariano Avila</a>. The website is not affiliated with any of the organizations below this tweet</p>
